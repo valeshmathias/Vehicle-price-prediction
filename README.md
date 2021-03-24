@@ -1,4 +1,4 @@
-# Vehicle-price-prediction
+# Vehicle Price Prediction
 This project has been done in light of understanding the basics of working with data. 
 
 - Dataset source: Kaggle 
